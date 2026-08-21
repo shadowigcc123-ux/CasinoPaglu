@@ -1,0 +1,7 @@
+python-telegram-bot==22.7
+Pillow>=10.0
+aiohttp>=3.9
+Telethon>=1.36,<2
+cryptography>=42
+fastapi>=0.110
+uvicorn>=0.29
